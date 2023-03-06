@@ -32,7 +32,7 @@ Modelling goals:
 
 * To create a transmission model with susceptible (S), infected (I) and recovered (R) individuals 
 * To plot the health states over time
-* To adapt model parameters and compare model outcomes
+* To adapt model parameters and compare model outcomes  
 
 The dynamic process is captured in the following set of ordinary differential equations:
 $$
